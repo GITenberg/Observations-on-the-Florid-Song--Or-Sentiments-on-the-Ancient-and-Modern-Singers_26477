@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32034
     wikipedia: http://en.wikipedia.org/wiki/Pier_Francesco_Tosi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26477#Observations-on-the-Florid-Song--Or-Sentiments-on-the-Ancient-and-Modern-Singers
 gutenberg_bookshelf: Music
 gutenberg_issued: '2008-08-29'
 gutenberg_type: Text
