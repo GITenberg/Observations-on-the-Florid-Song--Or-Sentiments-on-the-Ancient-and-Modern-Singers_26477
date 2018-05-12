@@ -1,0 +1,40 @@
+_repo: Observations-on-the-Florid-Song--Or-Sentiments-on-the-Ancient-and-Modern-Singers_26477
+_version: 0.1.0
+alternative_title: Opinioni de' cantori antichi e moderni. English
+contributor:
+  translator:
+    agent_name: Galliard, John Ernest
+    alias: Galliard, Johann Ernst
+    deathdate: 1747
+    gutenberg_agent_id: '32035'
+    url: http://www.gutenberg.org/2009/agents/32035
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Ernst_Galliard
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tosi, Pier Francesco
+    aliases:
+    - Tosi, Pierfrancesco
+    - Tosi, Pietro Francesco
+    deathdate: 1732
+    gutenberg_agent_id: '32034'
+    url: http://www.gutenberg.org/2009/agents/32034
+    wikipedia: http://en.wikipedia.org/wiki/Pier_Francesco_Tosi
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2008-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singing'
+- !lcc 'MT'
+- !lcsh 'Performance practice (Music) -- Early works to 1800'
+title: Observations on the Florid Song; Or, Sentiments on the Ancient and Modern Singers
+url: http://www.gutenberg.org/ebooks/26477
